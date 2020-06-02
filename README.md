@@ -37,7 +37,8 @@ Number/Size of Images   : Total      : 1419 (555 MB)
 #### Results
 We have achieved following results which outperform 4 previous state-of-the-art deep CNNs for detection of COVID-10 from CXR.
 
-
+<pre>
+<b> Performance Metrics </b>
 5-Fold Cross Validation Accuracy (100 Epochs)    : 96.45%
 Test Accuracy                                    : 95.88%
 Precision                                        : 96.16%
