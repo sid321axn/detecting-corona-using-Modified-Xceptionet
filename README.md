@@ -19,8 +19,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 Dataset (Normal & Viral cases)     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
 Dataset (COVID-19)    : <a href=https://github.com/ieee8023/covid-chestxray-dataset>COVID Chest xray dataset</a>
                  : 
-Our Associated Paper   : <a href=https://www.romjist.ro/full-texts/paper657.pdf>Diagnosis of Coronavirus Disease (COVID-19) from
-Chest X-Ray images using modified XceptionNet</a>
+Our Associated Paper   : <a href=https://www.romjist.ro/full-texts/paper657.pdf>Diagnosis of Coronavirus Disease (COVID-19) from Chest X-Ray images using modified XceptionNet</a>
                    (Krishna Kant Singh, Manu Siddhartha, Akansha Singh)
                    
 </pre>
@@ -34,7 +33,7 @@ Number/Size of Images   : Total      : 1419 (555 MB)
                           Testing    : 284 
                          
 
-### Results
+## Results
 We have achieved following results which outperform 4 previous state-of-the-art deep CNNs for detection of COVID-10 from CXR.
 
 
